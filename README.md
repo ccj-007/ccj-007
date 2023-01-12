@@ -1,16 +1,23 @@
-<h3> Hi, I am Chase Chen! 👋 </h3> <br/>
+<h3  align=center> Hi, I am Chase Chen! <img src="https://cdn.jsdelivr.net/gh/MaleWeb/picture/images/techblog/hi.gif" width="25"> </h3> <br/>
+
+
+<div align=center>
+ 📖 掘金: [https://juejin.cn/user/443162307720/posts](https://juejin.cn/user/443162307720/posts)
+ 
+ <br/>
+ <br/>
+ 
+ <div> 技术栈:  <img src="https://img.shields.io/badge/-JavaScript-f6da1c?style=flat&logo=javascript&logoColor=white">
+  <img src="https://img.shields.io/badge/-TypeScript-2b6dbf?style=flat&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/-React-00b4ce?style=flat&logo=react&logoColor=white">
+  <img src="https://img.shields.io/badge/-Vue-46b882?style=flat&logo=vue.js&logoColor=white">
+  <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/-Java-black?style=flat&logo=next.js&logoColor=white"> </div>
+</div>
+ <br/>
+
 
 |Base Info|Dashboard Data|
 |----------------------------------------------------------------------|----------------------------------------------------------------------|
-| 1. 🔭 I’m currently working on ShangHai, China<br/><br/>2. 🌱 I’m currently learning Next.js<br/><br/>3. 📫 How to reach me: 596487930@qq.com<br/><br/>4. 💬 Leave me a word : https://github.com/ccj-007/blogs/issues/new |<img align="center" src="https://github-readme-stats.vercel.app/api?username=ccj-007&show_icons=true&theme=buefy&hide_border=true" alt="" /> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ccj-007&layout=compact&theme=buefy&hide_border=true" alt="" />|
+| 1. 🔭 在干啥：在学点java，刷点算法 <br/><br/>2. 🌱 微信交流 17805851836  <br/><br/>3. 📫 可以给我发个邮件 596487930@qq.com<br/><br/>4. 💬  |<img align="center" src="https://github-readme-stats.vercel.app/api?username=ccj-007&show_icons=true&theme=buefy&hide_border=true" alt="" /> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ccj-007&layout=compact&theme=buefy&hide_border=true" alt="" />|
 
-
-<div align=center><b>Here's something else</b></div>
-
-📖 掘金: [https://juejin.cn/user/443162307720/posts](https://juejin.cn/user/443162307720/posts)
-
-技术栈:  ![](https://img.shields.io/badge/-React-blue) ![](https://img.shields.io/badge/-Vue-brightgreen)  ![](https://img.shields.io/badge/-Angular-red) ![](https://img.shields.io/badge/-TypeScript-blue) ![](https://img.shields.io/badge/-JaveScript-yellow) ![](https://img.shields.io/badge/-Node-success)
- 
-
- ### 📈 Activity Graph：
-![](https://activity-graph.herokuapp.com/graph?username=ccj-007&theme=react-dark)
