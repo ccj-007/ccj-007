@@ -1,23 +1,33 @@
-<h3  align=center> Hi, I am Chase Chen! <img src="https://cdn.jsdelivr.net/gh/MaleWeb/picture/images/techblog/hi.gif" width="25"> </h3> <br/>
+ <h2 ><img src="https://cdn.jsdelivr.net/gh/dmego/images/img/Hi.gif" height="32" /> Hi! My name is Chase Chen 😄</h2>
 
+  <a href="https://juejin.cn/user/443162307720"><img src="https://img.shields.io/badge/juejin-qianyu-blue" alt="qianyu"></a>
+  <img src="https://img.shields.io/badge/iphone & wechat-17805851836-brightgreen" alt="iphone & wechat">
+  <img src="https://img.shields.io/badge/email-596487930@qq.com-brightgreen" alt="email">
+</p>
 
-<div align=center>
- 📖掘金 https://juejin.cn/user/443162307720/post
- 
- <br/>
- <br/>
- 
- <div> 技术栈:  <img src="https://img.shields.io/badge/-JavaScript-f6da1c?style=flat&logo=javascript&logoColor=white">
+**𝘼𝙗𝙤𝙪𝙩 𝙢𝙚**
+
+- 🏫 I am a front-end developer from Shanghai, China
+- 💦 Currently, we are brushing the algorithm and writing the spring boot project
+- 🙈 I prefer to use react and TS to write front-end
+- 💘 I am better at front-end engineering and mixed cross-end development. I will spend my spare time thinking about some plug-in tools
+
+**My technology stack:**  
+
+ <div> <img src="https://img.shields.io/badge/-JavaScript-f6da1c?style=flat&logo=javascript&logoColor=white">
   <img src="https://img.shields.io/badge/-TypeScript-2b6dbf?style=flat&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/-React-00b4ce?style=flat&logo=react&logoColor=white">
   <img src="https://img.shields.io/badge/-Vue-46b882?style=flat&logo=vue.js&logoColor=white">
   <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
   <img src="https://img.shields.io/badge/-Java-black?style=flat&logo=next.js&logoColor=white"> </div>
 </div>
- <br/>
 
+<br />
 
-|Base Info|Dashboard Data|
-|----------------------------------------------------------------------|----------------------------------------------------------------------|
-| 1. 🔭 在干啥：在学点java，刷点算法 <br/><br/>2. 🌱 微信交流 17805851836  <br/><br/>3. 📫 可以给我发个邮件 596487930@qq.com<br/><br/>4. 💬  |<img align="center" src="https://github-readme-stats.vercel.app/api?username=ccj-007&show_icons=true&theme=buefy&hide_border=true" alt="" /> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ccj-007&layout=compact&theme=buefy&hide_border=true" alt="" />|
+ <a href="https://github.com/linjunc"><img src="https://github-readme-stats.vercel.app/api?username=linjunc&show_icons=true&theme=radical"  alt="Savuer's github stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=ccj-007&show_icons=true&theme=radical" style="max-width:100%;">
+</a> 
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ccj-007&layout=compact&theme=buefy&hide_border=true" alt="" />
+
+ 
 
