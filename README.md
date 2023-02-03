@@ -1,6 +1,6 @@
  <h2 ><img src="https://cdn.jsdelivr.net/gh/dmego/images/img/Hi.gif" height="32" /> Hi! My name is Chase Chen 😄</h2>
 
-  <a href="https://juejin.cn/user/443162307720"><img src="https://img.shields.io/badge/juejin-qianyu-blue" alt="qianyu"></a>
+  <a href="https://juejin.cn/user/443162307720/post"><img src="https://img.shields.io/badge/juejin-qianyu-blue" alt="qianyu"></a>
   <img src="https://img.shields.io/badge/iphone & wechat-17805851836-brightgreen" alt="iphone & wechat">
   <img src="https://img.shields.io/badge/email-596487930@qq.com-brightgreen" alt="email">
 </p>
@@ -24,7 +24,7 @@
 
 <br />
 
- <a href="https://github.com/linjunc"><img src="https://github-readme-stats.vercel.app/api?username=linjunc&show_icons=true&theme=radical"  alt="Savuer's github stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=ccj-007&show_icons=true&theme=radical" style="max-width:100%;">
+ <a href="https://github.com/ccj-007"><img src="https://github-readme-stats.vercel.app/api?username=ccj-007&show_icons=true&theme=radical"  alt="Savuer's github stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=ccj-007&show_icons=true&theme=radical" style="max-width:100%;">
 </a> 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ccj-007&layout=compact&theme=buefy&hide_border=true" alt="" />
