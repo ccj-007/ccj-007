@@ -1,6 +1,6 @@
  <h2 ><img src="https://cdn.jsdelivr.net/gh/dmego/images/img/Hi.gif" height="32" /> Hi! My name is Chase Chen 😄</h2>
  
-  <a href="https://juejin.cn/user/443162307720/posts"><img src="https://img.shields.io/badge/blog-qianyu-blue" alt="blog"></a>
+  <a href="https://juejin.cn/user/443162307720/posts?sort=popular"><img src="https://img.shields.io/badge/blog-qianyu-blue" alt="blog"></a>
   <img src="https://img.shields.io/badge/iphone & wechat-17805851836-brightgreen" alt="iphone & wechat">
   <img src="https://img.shields.io/badge/email-596487930@qq.com-brightgreen" alt="email">
 </p>
