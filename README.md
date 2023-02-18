@@ -3,6 +3,8 @@
   <a href="https://juejin.cn/user/443162307720/posts?sort=popular"><img src="https://img.shields.io/badge/blog-qianyu-blue" alt="blog"></a>
   <img src="https://img.shields.io/badge/iphone & wechat-17805851836-brightgreen" alt="iphone & wechat">
   <img src="https://img.shields.io/badge/email-596487930@qq.com-brightgreen" alt="email">
+  
+  juejin blog  https://juejin.cn/user/443162307720/posts?sort=popular
 </p>
 
 **𝘼𝙗𝙤𝙪𝙩 𝙢𝙚**
